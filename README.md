@@ -1,27 +1,77 @@
-# 💫 About Me:
-Hi there! I'm Rupam Giri, a passionate Java Full Stack Developer Intern at Zidio Development. I love building scalable web applications and solving real-world problems with clean, efficient code.<br><br>💻 Currently working on ZIDIO CONNECT – a full-featured job and internship portal<br><br>🌱 Learning advanced Spring Boot, React.js, and system design principles<br><br>🛠️ Skills: Java, Spring Boot, React, MySQL, REST APIs, JWT, HTML/CSS/JS<br><br>📫 Reach me: LinkedIn<br><br>🚀 Always open to collaboration and open-source projects<br><br>“Code is not just about logic; it’s about building experiences.”
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rupam797.Rupam797" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rupam+Giri!;" />
+</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rupam-giri-087b00348/) 
+<h3 align="center">A passionate Java Full Stack Developer Intern at Zidio Development</h3>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rupam797&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rupam797&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam797&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rupam797&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+ 
+ 🔭 I’m currently working on **ZIDIO CONNECT – a full-featured job and internship portal**
+ 
+ 🌱 I’m currently learning ** Learning advanced Spring Boot, React.js, and system design principles**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🛠️ Skills **Java, Spring Boot, React, MySQL, REST APIs, JWT, HTML/CSS/JS**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rupam797&limit=5&theme=dark&combine_all_yearly_contributions=true)
+⚡ Fun fact **Code is not just about logic; it’s about building experiences**
 
----
-[![](https://visitcount.itsvg.in/api?id=Rupam797&icon=0&color=0)](https://visitcount.itsvg.in)
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,c,mysql," /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rupam797/Rupam797/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  97<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Rupam797&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Rupam797&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-Rupam797.vercel.app/api/top-langs/?username=Rupam797&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🚀+Always+open+to+collaboration+and+open-source+ projects;+Thanks+for+visiting;" />
+</h2>
+
+<br/>
+
