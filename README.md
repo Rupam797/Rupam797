@@ -69,9 +69,9 @@
 
 <br/>
 
-<h2 align="center">
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🚀+Always+open+to+collaboration+and+open-source+ projects;+Thanks+for+visiting;" />
-</h2>
+</div>
 
 <br/>
 
