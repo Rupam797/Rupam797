@@ -56,11 +56,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Rupam797&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
-  <img width=390 src="https://nirzak-streak-stats.vercel.app/?user=Rupam797&theme=dark&hide_border=false" alt="GitHub Streak"/>
+<div align="center">
+  <img width="400" height="180" src="https://github-readme-stats.vercel.app/api?username=Rupam797&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img width="400" height="180" src="https://nirzak-streak-stats.vercel.app/?user=Rupam797&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
+
 
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam797&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
@@ -73,7 +73,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=🚀+Always+open+to+collaboration+and+open-source+projects;Thanks+for+visiting!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=🚀+Always+open+to+collaboration;Thanks+for+visiting!" />
 </div>
 
 <br/>
