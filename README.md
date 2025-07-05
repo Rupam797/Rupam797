@@ -21,13 +21,13 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:work.rupam.giri@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/rupam-giri-087b00348/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://Rupam797.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind" />
     <img src="https://skillicons.dev/icons?i=java,python,javascript,c,mysql," /><br>
 </div>
 
@@ -57,8 +57,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Rupam797&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
-  <img width=390 src="https://nirzak-streak-stats.vercel.app/?user=Rupam797&theme=dark&hide_border=false" alt="GitHub Streak"  />
+  <div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rupam797&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+  <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=Rupam797&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</div>
+
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam797&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
