@@ -59,8 +59,8 @@
 
 <div align="center">
   <!-- GitHub Stats and Streak Side-by-Side -->
-  <img width="380" height="180" src="https://github-readme-stats.vercel.app/api?username=Rupam797&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img width="390" height="180" src="https://nirzak-streak-stats.vercel.app/?user=Rupam797&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img width="390" height="180" src="https://github-readme-stats.vercel.app/api?username=Rupam797&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img width="390" height="200" src="https://nirzak-streak-stats.vercel.app/?user=Rupam797&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <br/>
