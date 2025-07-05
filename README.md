@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **ZIDIO CONNECT – a full-featured job and internship portal**
  
- 🌱 I’m currently learning ** Learning advanced Spring Boot, React.js, and system design principles**
+ 🌱 I’m currently learning **Advanced Spring Boot, React.js, and system design principles**
 
 🛠️ Skills **Java, Spring Boot, React, MySQL, REST APIs, JWT, HTML/CSS/JS**
 
