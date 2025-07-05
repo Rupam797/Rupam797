@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Hi there! I'm Rupam Giri, a passionate Java Full Stack Developer Intern at Zidio Development. I love building scalable web applications and solving real-world problems with clean, efficient code.<br><br>💻 Currently working on ZIDIO CONNECT – a full-featured job and internship portal<br><br>🌱 Learning advanced Spring Boot, React.js, and system design principles<br><br>🛠️ Skills: Java, Spring Boot, React, MySQL, REST APIs, JWT, HTML/CSS/JS<br><br>📫 Reach me: LinkedIn<br><br>🚀 Always open to collaboration and open-source projects<br><br>“Code is not just about logic; it’s about building experiences.”
 
