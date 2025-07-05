@@ -57,7 +57,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  97<img width=390 src="https://github-readme-stats.vercel.app/api?username=Rupam797&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Rupam797&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
   <img width=390 src="https://nirzak-streak-stats.vercel.app/?user=Rupam797&theme=dark&hide_border=false" alt="GitHub Streak"  />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam797&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
