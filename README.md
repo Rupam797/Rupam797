@@ -81,17 +81,13 @@ const rupam = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rupam797&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupam797&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rupam797&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Rupam797&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam797&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rupam797&theme=tokyonight&utcOffset=5.5" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupam797&theme=tokyonight" width="98%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam797&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rupam797&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
