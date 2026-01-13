@@ -12,7 +12,22 @@
   <img src="https://img.shields.io/github/stars/Rupam797?label=Stars&style=social" alt="stars" />
 </p>
 
+
 ---
+
+## 📫 Let's Connect
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.rupam.giri@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupam-giri-087b00348/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Rupam797.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupam797)
+
+</div>
+
+---
+
 
 ## 🚀 About Me
 
@@ -28,6 +43,9 @@ const rupam = {
     lifePhilosophy: "Build solutions that make a difference"
 };
 ```
+
+
+
 
 <div align="center">
 
@@ -125,20 +143,6 @@ const rupam = {
   </tr>
 </table>
 
----
-
-## 📫 Let's Connect
-
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.rupam.giri@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupam-giri-087b00348/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Rupam797.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupam797)
-
-</div>
-
----
 
 ## 💡 What I'm Working On
 
@@ -160,27 +164,11 @@ graph LR
 
 ---
 
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rupam797&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
----
-
-## 🎯 2025 Goals
-
-- ✅ Master Spring Boot Microservices Architecture
-- ✅ Contribute to Open Source Projects
-- ✅ Build Production-Ready Full Stack Applications
-- ✅ Learn DevOps & Cloud Technologies (AWS/Azure)
-- ✅ Improve System Design Skills
-- ✅ Share Knowledge through Technical Blogs
-
----
 
 ## 💭 Dev Quote
 
@@ -188,15 +176,7 @@ graph LR
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
----
 
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-</div>
-
----
 
 <div align="center">
   
