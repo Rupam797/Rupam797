@@ -99,21 +99,10 @@ const rupam = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rupam797&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Rupam797&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam797&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rupam797&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rupam797&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" />
+  <img width="40%" 
+    src="https://nirzak-streak-stats.vercel.app/?user=Rupam797&theme=tokyonight&hide_border=true" />
+  <img width="40%" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rupam797&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -130,44 +119,18 @@ const rupam = {
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="20%">
       <img src="https://img.icons8.com/color/96/000000/briefcase.png"/>
       <br><strong>Ex-Intern @ Zidio Development</strong>
       <br><sub>Gained hands-on experience in full-stack development</sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="20%">
       <img src="https://img.icons8.com/color/96/000000/rocket.png"/>
       <br><strong>ZIDIO CONNECT Project</strong>
       <br><sub>Leading development of comprehensive job portal</sub>
     </td>
   </tr>
 </table>
-
-
-## 💡 What I'm Working On
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[ZIDIO CONNECT] --> B[Job Portal Module]
-    A --> C[Internship Module]
-    A --> D[User Authentication]
-    A --> E[Application Tracking]
-    B --> F[Search & Filter]
-    C --> G[Company Dashboard]
-    D --> H[JWT Security]
-    E --> I[Email Notifications]
-```
-
-</div>
-
----
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rupam797&theme=tokyonight&hide_border=true&layout=compact" />
-</div>
 
 
 ## 💭 Dev Quote
