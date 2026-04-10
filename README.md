@@ -1,62 +1,40 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rupam%20Giri&fontSize=42&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20|%20Building%20Scalable%20Solutions&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Rupam%20Giri&fontSize=35&fontAlignY=35&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=3DADE8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+Java+Enthusiast;Building+Scalable+Web+Applications;Ex-Intern+%40+Zidio+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=3DADE8&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Building+Scalable+Solutions;Backend+|+Frontend+|+Database" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rupam797.Rupam797" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Rupam797?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Rupam797?label=Stars&style=social" alt="stars" />
+  <a href="mailto:work.rupam.giri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rupam-giri-087b00348/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://rupamgiri.in/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://github.com/Rupam797"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rupam797.Rupam797" alt="visitors"/>
+  <img src="https://img.shields.io/github/followers/Rupam797?label=Followers&style=social" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Rupam797?label=Stars&style=social" alt="stars"/>
+</p>
 
 ---
 
-## 📫 Let's Connect
-
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.rupam.giri@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupam-giri-087b00348/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rupamgiri.in/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupam797)
-
-</div>
-
----
-
-
-## 🚀 About Me
+## About Me
 
 ```javascript
 const rupam = {
-    location: "Bengaluru, Karnataka, IN",
+    location: "Bengaluru, Karnataka, India",
     role: "Java Full Stack Developer",
-    currentFocus: "Building ZIDIO CONNECT - Job & Internship Portal",
-    learning: ["Advanced Spring Boot", "React.js", "System Design", "Microservices"],
-    experience: "Ex-Intern @ Zidio Development",
+    currentFocus: "Building scalable web applications",
+    learning: ["Spring Boot", "React.js", "System Design", "Microservices"],
     interests: ["Backend Architecture", "RESTful APIs", "Database Optimization"],
-    funFact: "I believe great code is like poetry - elegant, purposeful, and timeless",
-    lifePhilosophy: "Build solutions that make a difference"
+    motto: "Write clean code, build great products"
 };
 ```
 
-
-
-
-<div align="center">
-
-### 🎯 Current Mission
-**Developing ZIDIO CONNECT** - A comprehensive job and internship portal connecting talented individuals with opportunities
-
-</div>
-
----
-
-## 💼 Technical Arsenal
+## Technical Skills
 
 <div align="center">
 
@@ -82,10 +60,10 @@ const rupam = {
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### API & Security
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -94,65 +72,34 @@ const rupam = {
 
 </div>
 
----
-
-## 📊 GitHub Analytics
+## Contribution Activity
 
 <div align="center">
-  <img width="40%" 
-    src="https://nirzak-streak-stats.vercel.app/?user=Rupam797&theme=tokyonight&hide_border=true" />
-  <img width="40%" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rupam797&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupam797&theme=tokyo-night&hide_border=true&area=true&height=250" width="90%"/>
 </div>
 
----
-
-## 🐍 Contribution Graph
+## Contribution Snake
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://github.com/Rupam797/Rupam797/blob/output/github-snake-dark.svg" />
 </div>
 
----
-
-## 🎓 Experience & Achievements
-
-<table align="center">
-  <tr>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/color/96/000000/briefcase.png"/>
-      <br><strong>Ex-Intern @ Zidio Development</strong>
-      <br><sub>Gained hands-on experience in full-stack development</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/color/96/000000/rocket.png"/>
-      <br><strong>ZIDIO CONNECT Project</strong>
-      <br><sub>Leading development of comprehensive job portal</sub>
-    </td>
-  </tr>
-</table>
-
-
-## 💭 Dev Quote
+## Detailed Analytics
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-
-
-<div align="center">
-  
-### 💼 Open for Collaboration & Opportunities
-  
-*"The best way to predict the future is to create it"*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupam797&theme=tokyonight"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupam797&theme=tokyonight"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rupam797&theme=tokyonight"/>
 </div>
 
 ---
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/Rupam797">Rupam Giri</a> | Made with ❤️ and ☕</sub>
+  
+### "Code is like humor. When you have to explain it, it's bad."
+  
+<strong>Open for opportunities and collaborations</strong>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
+
 </div>
