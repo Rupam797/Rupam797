@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Rupam%20Giri&fontSize=35&fontAlignY=35&animation=fadeIn" width="100%"/>
 </div>
 
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=3DADE8&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Building+Scalable+Solutions;Backend+|+Frontend+|+Database" alt="Typing SVG" />
 </div>
