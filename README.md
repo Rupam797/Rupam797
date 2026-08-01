@@ -1,20 +1,12 @@
 
 ## GitHub Contribution Calendar
+![GitHub Contribution Heatmap](./contrib-heatmap.svg)
 
-<div align="center">
 
-<a href="https://github.com/Rupam797">
-  <img
-    src="https://ghchart.rshah.org/39d353/Rupam797"
-    alt="Rupam Giri GitHub Contribution Calendar"
-    width="100%"
-  />
-</a>
 
-</div>
 <br>
 
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Rupam%20Giri&fontSize=35&fontAlignY=35&animation=fadeIn" width="100%"/>
